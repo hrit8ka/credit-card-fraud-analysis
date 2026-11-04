@@ -218,7 +218,7 @@ There are a few limitations worth keeping in mind when interpreting the results:
 ### 1. Clone the repository
 
 ```bash
-git clone <https://github.com/hrit8ka/credit-card-fraud-analysis>
+git clone https://github.com/hrit8ka/credit-card-fraud-analysis
 cd credit-card-fraud-analysis
 ```
 
