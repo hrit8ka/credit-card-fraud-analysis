@@ -20,8 +20,17 @@ The main objectives were to:
 - Evaluate the model beyond accuracy, with particular attention to precision and recall.
 
 ## The dataset
+## Dataset
 
-The project uses the [Credit Card Fraud Detection dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud), available on Kaggle.
+This project uses the Credit Card Fraud Detection dataset from Kaggle.
+
+The dataset is not included in this repository because of its file size.
+
+Download it here:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+After downloading, place `creditcard.csv` inside the `data/` directory.
+
 
 It contains transactions made by European cardholders over approximately two days in September 2013.
 
