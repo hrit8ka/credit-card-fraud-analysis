@@ -231,12 +231,6 @@ uv venv .venv
 source .venv/bin/activate
 ```
 
-Install the dependencies:
-
-```bash
-uv pip install -r requirements.txt
-```
-
 ### 3. Set up PostgreSQL
 
 Create the database:
